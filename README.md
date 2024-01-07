@@ -57,6 +57,12 @@ Here are a few glimpses of Movix:
 
 ![movix project](https://github.com/Mazeedkmk204/Movix/assets/151126360/43c6e5c7-36ac-45aa-a996-c38ddacd3986)
 
+![Screenshot (9)](https://github.com/Mazeedkmk204/Movix/assets/151126360/8d5b23c3-4dee-4486-97e0-53fff4f5eb59)
+![Screenshot (10)](https://github.com/Mazeedkmk204/Movix/assets/151126360/f983d098-90b9-41ea-b400-7ea85bb9af42)
+
+
+
+
 
 
 Contributing 🤝
